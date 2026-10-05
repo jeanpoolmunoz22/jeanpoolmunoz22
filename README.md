@@ -10,13 +10,13 @@ Actualment estic aprenent sobre sistemes operatius, xarxes, muntatge i mantenime
 
 ## 🛠️ Competències i tecnologies
 
-* Linux i Ubuntu
-* Windows
-* Xarxes informàtiques
-* Muntatge i manteniment d'ordinadors
-* Git i GitHub
-* Markdown
-* Python
+- Linux i Ubuntu
+- Windows
+- Xarxes informàtiques
+- Muntatge i manteniment d'ordinadors
+- Git i GitHub
+- Markdown
+- Python
 
 ## 📂 Els meus projectes
 
@@ -38,8 +38,8 @@ Vull millorar els meus coneixements d'informàtica i aprendre més sobre el supo
 
 ## 🎮 Interessos personals
 
-M'agraden la tecnologia, els ordinadors i aprendre coses noves. També m'interessa continuar millorant les meves habilitats.
+M'agrada la tecnologia, els ordinadors i aprendre coses noves. També m'interessa continuar millorant les meves habilitats.
 
 ## 📫 Contacte
 
-* GitHub: [El meu perfil](https://github.com/jeanpoolmunoz22)
+- GitHub: [El meu perfil](https://github.com/jeanpoolmunoz22)
