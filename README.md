@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Jeanpool Muñoz - SMX" width="100%">
+</p>
+
+<h1 align="center">👋 Hola, sóc Jeanpool Muñoz</h1>
 # 👋 Hola, sóc Jeanpool Muñoz
 
 ## 👨‍💻 Qui sóc
